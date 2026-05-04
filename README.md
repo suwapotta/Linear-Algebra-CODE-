@@ -16,7 +16,7 @@ python modi.py
 # With input file
 python modi.py < input.txt
 
-# With input file and output.txt
+# With input file and output
 python modi.py < input.txt > output.txt
 ```
 
