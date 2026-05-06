@@ -4,7 +4,6 @@
 
 - [Run code](#run-code)
   - [Python](#python)
-  - [Matlab (Octave)](#matlab-octave)
   <!--toc:end-->
 
 ## Python
@@ -18,11 +17,4 @@ python modi.py < input.txt
 
 # With input file and save the output of program
 python modi.py < input.txt > output.txt
-```
-
-## Matlab (Octave)
-
-```bash
-# Octave/Matlab
-octave modi.m
 ```
