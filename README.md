@@ -10,19 +10,19 @@
 ## Python
 
 ```bash
-# Normal
+# Normal (run in ./transportation directory)
 python modi.py
 
 # With input file
 python modi.py < input.txt
 
-# With input file and output
+# With input file and save the output of program
 python modi.py < input.txt > output.txt
 ```
 
 ## Matlab (Octave)
 
 ```bash
-# Octave
+# Octave/Matlab
 octave modi.m
 ```

@@ -22,8 +22,6 @@
             name = "Python";
 
             packages = with pkgs; [
-              uv
-
               pyright
               python314Packages.debugpy
               ruff

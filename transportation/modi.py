@@ -8,9 +8,9 @@ def getCostMatrix():
     numCols = int(input('Enter the number of destinations: ')) + 1
 
     for i in range(numRows - 1):
-        rowCostArray=list(map(int, input('Enter the costs for source %s and the total supply at the end, separated by space\n'%(i+1)).split()))
+        rowCostArray=list(map(int, input('Enter the costs for source %s and the total supply at the end, separated by space:\n'%(i+1)).split()))
         costMatrix.append(rowCostArray)
-    rowCostArray = list(map(int, input('Enter the demand values for each destination separated by space\n').split()))
+    rowCostArray = list(map(int, input('Enter the demand values for each destination separated by space:\n').split()))
     costMatrix.append(rowCostArray)
 
     if len(costMatrix[numRows - 1]) != numCols:
