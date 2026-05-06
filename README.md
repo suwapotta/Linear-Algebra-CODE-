@@ -1,10 +1,16 @@
-# Run code
+# Code
 
 <!--toc:start-->
 
-- [Run code](#run-code)
+- [Code](#code)
+  - [Solution notes](#solution-notes)
   - [Python](#python)
   <!--toc:end-->
+
+## Solution notes
+
+- Initial solution uses **Northwest Corner** method
+  then optimizing using **MODI** method.
 
 ## Python
 
