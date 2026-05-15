@@ -24,3 +24,9 @@ python modi.py < input.txt
 # With input file and save the output of program
 python modi.py < input.txt > output.txt
 ```
+
+## References
+
+1. <https://www.universalteacherpublications.com/univ/ebooks/or/Ch5/nw1.htm>
+2. <https://www.universalteacherpublications.com/univ/ebooks/or/Ch5/modiex.htm>
+3. <https://docs.python.org/3/library/sys.html>
